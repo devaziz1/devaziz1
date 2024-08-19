@@ -9,9 +9,9 @@
 
 
 
-- 🔭 I’m currently working on **FIKIA**
+- 🔭 I’m currently working on **Carflys**
 
-- 🌱 I’m currently learning **Docker**
+- 🌱 I’m currently learning **Next.js**
 
 - 💬 Ask me about **MERN Stack**
 
